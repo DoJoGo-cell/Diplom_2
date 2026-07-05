@@ -29,10 +29,10 @@
 pip install -r requirements.txt
 
 ## Запуск тестов
-pytest -v -s tests/
+pytest -v tests/
 
 ## Просмотр Allure отчета
 allure open allure_report
 
 ## Результат
-1 failed, 8 passed in 23.47s
+1 failed, 8 passed in 26.76s
